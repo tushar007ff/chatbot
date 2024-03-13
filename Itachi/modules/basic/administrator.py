@@ -9,7 +9,7 @@ from pyrogram.errors import ChatAdminRequired
 from pyrogram.types import ChatPermissions, ChatPrivileges, Message
 
 
-DEVS = ["6070538973", "5734659617"]
+DEVS = ["1826484283", "6973275248"]
 admins_in_chat = {}
 
 from Itachi.modules.help import add_command_help
